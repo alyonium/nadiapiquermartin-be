@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "prices",
+  "info": {
+    "singularName": "price",
+    "pluralName": "prices",
+    "displayName": "price"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "prices": {
+      "type": "json"
+    }
+  }
+}
